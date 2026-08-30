@@ -11,7 +11,7 @@
   <br/>
 
   <h1>  omrxm18@EOL </h1>
-  <p><i>Arch Linux Enthusiast | KDE Lover</i></p>
+  <p><i>Arch Linux Enthusiastr</i></p>
 
   <br/><br/>
 
